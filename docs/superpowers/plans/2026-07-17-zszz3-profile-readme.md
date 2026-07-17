@@ -196,7 +196,7 @@ Expected: one commit creating the workflow.
 Run:
 
 ```bash
-rg --files -g '!.git' | sort
+rg --files --hidden -g '!.git' | sort
 ```
 
 Expected files:
