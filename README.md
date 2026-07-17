@@ -9,17 +9,8 @@
 ## About Me
 
 - 🏫 **Southeast University**
-- 🎯 **Focus:** Backend · AI Agents · 3D Gaussian Splatting
+- 🎯 **Focus:** Backend · AI Agents · LLM / AI Infra · 3D Gaussian Splatting
 - 🏆 **Experience:** ACMer
-
----
-
-## Interests
-
-![Backend Engineering](https://img.shields.io/badge/Backend-Engineering-0969DA?style=for-the-badge)
-![AI Agents](https://img.shields.io/badge/AI-Agents-412991?style=for-the-badge)
-![LLM / AI Infra](https://img.shields.io/badge/LLM%20%2F%20AI-Infra-0F766E?style=for-the-badge)
-![3D Gaussian Splatting](https://img.shields.io/badge/3D%20Gaussian-Splatting-8A2BE2?style=for-the-badge)
 
 ---
 
