@@ -1,11 +1,3 @@
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+wojiecihuo+%F0%9F%91%8B" alt="Hi, I'm wojiecihuo" />
-
-</div>
-
----
-
 ## About Me
 
 - 🏫 **Southeast University**
@@ -29,3 +21,11 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zszz3/zszz3/output/github-contribution-grid-snake.svg" />
   <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/zszz3/zszz3/output/github-contribution-grid-snake.svg" />
 </picture>
+
+---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+wojiecihuo+%F0%9F%91%8B" alt="Hi, I'm wojiecihuo" />
+
+</div>
