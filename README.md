@@ -19,12 +19,6 @@
 **Author**
 
 - [AgentRecall](https://github.com/zszz3/AgentRecall) — Search, manage, and migrate AI coding agent sessions.
-- [multi-agent-chat](https://github.com/zszz3/multi-agent-chat) — A local-first workbench for agents and workflows.
-
-**Contributor**
-
-- [agentscope-java](https://github.com/agentscope-ai/agentscope-java) — Agent-oriented programming for building LLM applications.
-
 ---
 
 ## lmao
