@@ -12,6 +12,9 @@
 **Author**
 
 - [AgentRecall](https://github.com/zszz3/AgentRecall) — Search, manage, and migrate AI coding agent sessions.
+
+**Contributor**
+- [Pi-Desktop](https://github.com/vastsa/PI-Desktop) - The desktop workspace for AI coding agents.
 ---
 
 ## lmao
