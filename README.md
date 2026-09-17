@@ -2,7 +2,7 @@
 
 - 🏫 **Southeast University**
 - 🎯 **Focus:** Backend · AI Agents · 3D Gaussian Splatting
-- 🏆 **Experience:** ACMer
+- 🏆 **Experience:** XCPC(Bronze)
 - 💼 **Internship:** [![Baidu](https://img.shields.io/badge/Baidu-Internship-2932E1?style=flat&logo=baidu&logoColor=white)](https://www.baidu.com) [![ByteDance](https://img.shields.io/badge/ByteDance-Internship-3C8CFF?style=flat&logo=bytedance&logoColor=white)](https://www.bytedance.com)
 
 ---
