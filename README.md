@@ -13,6 +13,10 @@
 
 - [AgentRecall](https://github.com/zszz3/AgentRecall) — Search, manage, and migrate AI coding agent sessions.
 
+**Contributor**
+
+- [PI-Desktop](https://github.com/vastsa/PI-Desktop) — A local-first desktop app for AI coding agents. Contributions to chat UX and MCP integration.
+
 ---
 
 ## lmao
