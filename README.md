@@ -15,7 +15,7 @@
 
 **Contributor**
 
-- [PI-Desktop](https://github.com/vastsa/PI-Desktop) — A local-first desktop app for AI coding agents. Contributions to chat UX and MCP integration.
+- [PI-Desktop](https://github.com/vastsa/PI-Desktop) — A local-first desktop app for AI coding agents.
 
 ---
 
