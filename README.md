@@ -10,7 +10,7 @@
 **Author**
 
 - [AgentRecall](https://github.com/zszz3/AgentRecall) — Search, manage, and migrate AI coding agent sessions.
-- [Pi-Jev-Guide](https://github.com/zszz3/Pi-Jev-Guide) — A configurable guardrail plugin for Pi Coding Agent.
+- [AgentHerd](https://github.com/zszz3/AgentHerd) - A desktop companion that runs your coding agents for you.
 
 **Contributor**
 
